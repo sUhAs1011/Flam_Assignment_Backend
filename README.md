@@ -195,14 +195,5 @@ python3 queuectl.py worker stop
 
 ---
 
-## 👤 Author
-
-**Your Name**
-LinkedIn: *your profile*
-GitHub: *your profile*
-
----
-
-**This project fulfills the background worker system assignment requirements including persistence, retries, DLQ, config system, and CLI management.**
 
 
