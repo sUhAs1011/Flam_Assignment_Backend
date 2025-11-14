@@ -15,7 +15,7 @@ QueueCTL is a lightweight, CLI-based background job processing system inspired b
 ### ✅ Installation & Run
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/sUhAs1011/Flam_Assignment_Backend.git
 cd queuectl
 chmod +x queuectl.py
 ```
